@@ -28,7 +28,7 @@
         { "id":3,"place":"NGL",  "name":"Jackson", "age":"16" }
         { "id":4,"name":"Max", "age":"17" }
 
-![MarineGEO circle logo](/img/out1.jpg "output image 1")
+![MarineGEO circle logo](https://raw.githubusercontent.com/MANOJ-M-01/Multiline-JSON-Data-To-xlsx-NodeJS/main/img/out1.JPG "output image 1")
 
 ### `convertMethod-1.js` will help if customize fieldnames (this will print place in xlsx)  
     will generate empty cell for undefined feilds
@@ -38,7 +38,7 @@
         { "id":3,"place":"NGL",  "name":"Jackson", "age":"16" }
         { "id":4,"name":"Max", "age":"17" }
 
-![MarineGEO circle logo](/img/out2.jpg "output image 2")
+![MarineGEO circle logo](https://raw.githubusercontent.com/MANOJ-M-01/Multiline-JSON-Data-To-xlsx-NodeJS/main/img/out2.JPG "output image 2")
 
 
 
