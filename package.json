@@ -1,0 +1,14 @@
+{
+  "name": "multiline-json-data-to-xlsx-nodejs",
+  "version": "1.0.0",
+  "description": "This will help if you have need to convert multiline json data into xlsx",
+  "main": "convertMethod-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2xls": "^0.1.2"
+  }
+}
