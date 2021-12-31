@@ -1,0 +1,4 @@
+{ "id":1,"name":"Martin ","height":5.9, "age":"14" }
+{ "id":2,"name":"sam", "age":"15" }
+{ "id":3,"place":"NGL",  "name":"Jackson", "age":"16" }
+{ "id":4,"name":"Max", "age":"17","Planet":"Mars" }
