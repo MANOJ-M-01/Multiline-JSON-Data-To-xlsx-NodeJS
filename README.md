@@ -28,9 +28,9 @@
         { "id":3,"place":"NGL",  "name":"Jackson", "age":"16" }
         { "id":4,"name":"Max", "age":"17" }
 
-![MarineGEO circle logo](https://raw.githubusercontent.com/MANOJ-M-01/Multiline-JSON-Data-To-xlsx-NodeJS/main/img/out1.JPG "output image 1")
+![Output Screenshot](https://raw.githubusercontent.com/MANOJ-M-01/Multiline-JSON-Data-To-xlsx-NodeJS/main/img/out1.JPG "output image 1")
 
-### `convertMethod-1.js` will help if customize fieldnames (this will print place in xlsx)  
+### `convertMethod-2.js` will help if customize fieldnames (this will print place in xlsx)  
     will generate empty cell for undefined feilds
 
         { "id":1,"name":"Martin ", "age":"14" }
@@ -38,8 +38,18 @@
         { "id":3,"place":"NGL",  "name":"Jackson", "age":"16" }
         { "id":4,"name":"Max", "age":"17" }
 
-![MarineGEO circle logo](https://raw.githubusercontent.com/MANOJ-M-01/Multiline-JSON-Data-To-xlsx-NodeJS/main/img/out2.JPG "output image 2")
+![Output Screenshot](https://raw.githubusercontent.com/MANOJ-M-01/Multiline-JSON-Data-To-xlsx-NodeJS/main/img/out2.JPG "output image 2")
 
+
+### `convertMethod-3.js` will help if customize fieldnames
+    will generate filed name automatically
+
+        { "id":1,"name":"Martin ","height":5.9, "age":"14" }
+        { "id":2,"name":"sam", "age":"15" }
+        { "id":3,"place":"NGL",  "name":"Jackson", "age":"16" }
+        { "id":4,"name":"Max", "age":"17","Planet":"Mars" }
+
+![Output Screenshot](https://raw.githubusercontent.com/MANOJ-M-01/Multiline-JSON-Data-To-xlsx-NodeJS/main/img/out3.JPG "output image 2")
 
 
 ### Reference Links
